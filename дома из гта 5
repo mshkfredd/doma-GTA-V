@@ -1,0 +1,32 @@
+<html>
+   <main>
+        <header>
+            <a>Персонажи</a>
+            <a>Локации</a>
+            <a>Предметы</a>
+        </header>
+        <body>
+            <h1>GTA V</h1>
+             <article class="card">
+              <p>Основная карта,  вся карта гта 5,говорят что это самая юольшая карта из всех версий гта ,наверно гта 6 перегонит эту карту по размерам .<br><br><br></p>
+                <img src="https://ss.sport-express.ru/userfiles/materials/192/1921852/volga.jpg">
+            </article>
+              <article class="card">
+              <p>Дом тёти франклина (жил там раньше франклин) тётя не впускает домой франклина .<br><br><br></p>
+                <img src="https://files.libertycity.net/download/gtasa_objects/thumbs/2022-06/dom-franklina-iz-gta-5_1654747594_656708.jpg">
+            </article>
+             <article class="card">
+              <p>Дом  франклина, франклин живёт один с чопом <br><br><br></p>
+                <img src="https://avatars.dzeninfra.ru/get-zen_doc/4594882/pub_62793d48f680416ea38912ab_62793fb8a240f645e1f62efb/orig">
+            </article>
+             <article class="card">
+              <p>Дом  майкла, живёт с семьёй  и у майкла есть садовник <br><br><br></p>
+                <img src="https://cq.ru/img/f/e/2023/11/08/35024.jpg">
+            </article>
+             <article class="card">
+              <p>Дом  тревора, ржавый фургон в нутри всё в мусоре  <br><br><br></p>
+                <img src="https://cdn.shazoo.ru/c576x256/413542_C8yowqcKdh_1448744846_preview_trevor01.jpg">
+            </article>
+        </body> 
+   </main>
+</html>
